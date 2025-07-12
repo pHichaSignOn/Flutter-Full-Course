@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/connectivity_plus/connectivity_plus.framework
+${BUILT_PRODUCTS_DIR}/url_launcher_macos/url_launcher_macos.framework
+${BUILT_PRODUCTS_DIR}/webview_flutter_wkwebview/webview_flutter_wkwebview.framework
